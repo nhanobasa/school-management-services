@@ -379,3 +379,10 @@ pip-selfcheck.json
 # Support for Project snippet scope
 
 # End of https://www.toptal.com/developers/gitignore/api/python,flask,visualstudiocode,pycharm,venv
+
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/school-management-services.iml
+/.idea/vcs.xml
